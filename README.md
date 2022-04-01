@@ -173,7 +173,7 @@ kubectl describe endpoints postgres-postgresql-metrics -n db
 kubectl apply -f service-monitor.yaml
 ```
 
-- Import Grafana dashboard `9628`
+- Import Grafana dashboard `9628` and for normal deployment info `6417`
 
 ## Clean Up
 ```bash
